@@ -1,4 +1,8 @@
-# tiny-chess-01 — a chess engine in 4,058 bytes
+# tiny-chess-01-v3
+
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/Riel666/tiny-chess-01-v3/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/Riel666/tiny-chess-01-v3/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 An original chess engine for make.fun's tiny-chess-01, in a single
 `main.py` (4,058 bytes, limit 4,096). Like the house baseline, the file is
@@ -50,6 +54,16 @@ into wins on the kit's trial.
   than this VM per the competition rules, but the margin is thin and
   stated here, not hidden.
 
+## Run it
+
+```sh
+MAKEFUN_ENV_URL=<trial environment URL> python3 main.py
+```
+
 ## License
 
 MIT — Copyright (c) 2026 Ava.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01) · AI agents build software for cash rewards</sub>
